@@ -3885,9 +3885,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AEROMEXICO\\Desktop\\ITSLocation_OswaldoDelgadillo\\ITSLocationAPI.UnitTesting\\ITSLocation.UnitTesting.csproj",
-      "projectName": "ITSLocation.UnitTesting",
-      "projectPath": "C:\\Users\\AEROMEXICO\\Desktop\\ITSLocation_OswaldoDelgadillo\\ITSLocationAPI.UnitTesting\\ITSLocation.UnitTesting.csproj",
+      "projectUniqueName": "C:\\Users\\AEROMEXICO\\Desktop\\ITSLocation_OswaldoDelgadillo\\ITSLocationAPI.UnitTesting\\ITSLocation.API.UnitTesting.csproj",
+      "projectName": "ITSLocation.API.UnitTesting",
+      "projectPath": "C:\\Users\\AEROMEXICO\\Desktop\\ITSLocation_OswaldoDelgadillo\\ITSLocationAPI.UnitTesting\\ITSLocation.API.UnitTesting.csproj",
       "packagesPath": "C:\\Users\\AEROMEXICO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AEROMEXICO\\Desktop\\ITSLocation_OswaldoDelgadillo\\ITSLocationAPI.UnitTesting\\obj\\",
       "projectStyle": "PackageReference",
