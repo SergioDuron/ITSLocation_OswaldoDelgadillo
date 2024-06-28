@@ -1,0 +1,12 @@
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\bin\Debug\net6.0\ITSLocation.Domain.deps.json
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\bin\Debug\net6.0\ITSLocation.Domain.dll
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\bin\Debug\net6.0\ITSLocation.Domain.pdb
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ITSLocation.Domain.csproj.AssemblyReference.cache
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ITSLocation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ITSLocation.Domain.AssemblyInfoInputs.cache
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ITSLocation.Domain.AssemblyInfo.cs
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ITSLocation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ITSLocation.Domain.dll
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\refint\ITSLocation.Domain.dll
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ITSLocation.Domain.pdb
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Domain\obj\Debug\net6.0\ref\ITSLocation.Domain.dll

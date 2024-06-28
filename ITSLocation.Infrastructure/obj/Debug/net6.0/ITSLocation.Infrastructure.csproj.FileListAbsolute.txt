@@ -1,0 +1,15 @@
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\bin\Debug\net6.0\ITSLocation.Infrastructure.deps.json
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\bin\Debug\net6.0\ITSLocation.Infrastructure.dll
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\bin\Debug\net6.0\ITSLocation.Infrastructure.pdb
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\bin\Debug\net6.0\ITSLocation.Domain.dll
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\bin\Debug\net6.0\ITSLocation.Domain.pdb
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.AssemblyInfo.cs
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.csproj.CopyComplete
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.dll
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\refint\ITSLocation.Infrastructure.dll
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ITSLocation.Infrastructure.pdb
+C:\Users\AEROMEXICO\Desktop\Sith .NET\ITSLocation.Infrastructure\obj\Debug\net6.0\ref\ITSLocation.Infrastructure.dll
